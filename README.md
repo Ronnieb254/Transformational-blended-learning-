@@ -1,7 +1,9 @@
 # Transformational-blended-learning-
 Gives a view of learning online and offline
 .  
-
+<br/>
+<img src="file:///storage/emulated/0/Download/images.jpeg" />
+<br />
 Blended learning is broadly defined as replacing
  seat time in courses with online activities to
  achieve learning objectives. Blended learning exists

@@ -2,7 +2,7 @@
 Gives a view of learning online and face to face learning. 
 
 <br/>
-<img src="https://images.app.goo.gl/eFS2Dr2hXGAbShtQ7" />
+<embed="https://youtu.be/yUeHB6BvAaU" />
 <br />
 Blended learning is broadly defined as replacing
  seat time in courses with online activities to
@@ -22,7 +22,7 @@ learning is a transformational redesign of teaching and learning.
  And the broad definition then lends itself to blended learning 
 becoming a mere description of a singular course rather than an
  institutional strategyblended learning is "the thoughtful fusion
- of face-to-face and online learning experiences" (p.5) such that
+ of face-to-face and online learning experiences" such that
  the strengths of each mode are blended into an optimal learning 
 experience.  At most institutions, a blended course is synonymous
  with a hybrid course.

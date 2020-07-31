@@ -2,7 +2,7 @@
 Gives a view of learning online and offline
 .  
 <br/>
-<img src="file:///storage/emulated/0/Download/images.jpeg" />
+<img src="https://www.shutterstock.com/search/blended+learning" />
 <br />
 Blended learning is broadly defined as replacing
  seat time in courses with online activities to

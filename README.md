@@ -3,7 +3,6 @@ Gives a view of learning online and face to face learning.
 
 <html>
 <body>
-
 <iframe width="420" height="315"
 src="https://YouTube.com/embed/paQCE58334M?playlist=paQCE58334M&loop=1"> 
 </iframe>

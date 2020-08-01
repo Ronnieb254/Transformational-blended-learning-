@@ -1,11 +1,15 @@
 # Transformational-blended-learning-
 Gives a view of learning online and face to face learning. 
 
-<br/>
+<html>
+<body>
+
 <iframe width="420" height="315"
 src="https://YouTube.com/embed/paQCE58334M?playlist=paQCE58334M&loop=1"> 
 </iframe>
-<br />
+</body)>
+</html>
+
 Blended learning is broadly defined as replacing seat time in courses with online activities to
  achieve learning objectives. Blended learning exists
  on a continuum with minimal online activities on one 

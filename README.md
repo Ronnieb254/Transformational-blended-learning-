@@ -2,10 +2,9 @@
 Gives a view of learning online and face to face learning. 
 
 <br/>
-< iframe width="420" height="315"
-src="https://youtu.be/paQCE58334M?autoplay=1" > 
+<iframe width="420" height="315"
+src="https://YouTube.com/embed/paQCE58334M?playlist=paQCE58334M&loop=1"> 
 </iframe>
-
 <br />
 Blended learning is broadly defined as replacing seat time in courses with online activities to
  achieve learning objectives. Blended learning exists

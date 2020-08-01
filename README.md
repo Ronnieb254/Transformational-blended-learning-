@@ -1,8 +1,8 @@
 <html>
-<head>
-# Transformational-blended-learning-
+<head><b>
+# Transformational-blended-learning-</b>
 </head>
-<body>
+
 <p>Gives a view of learning online and face to face learning. 
 </p>
 
@@ -33,6 +33,5 @@ becoming a mere description of a singular course rather than an
 experience.  At most institutions, a blended course is synonymous
  with a hybrid course.
 <a href ="https://tomprof.stanford.edu/posting/1357" >Read more</a>
-</body)>
 </html>
 

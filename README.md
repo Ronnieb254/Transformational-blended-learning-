@@ -2,8 +2,8 @@
 Gives a view of learning online and face to face learning. 
 
 <br/>
-<iframe width="420" height="315"
-src="https://youtu.be/paQCE58334M?autoplay=1">
+< iframe width="420" height="315"
+src="https://youtu.be/paQCE58334M?autoplay=1" > 
 </iframe>
 
 <br />
